@@ -1,0 +1,10 @@
+.Canvas {
+	background-color: black;
+	width: 600px;
+	height: 600px;
+}
+.Snake {
+	background-color: white;
+	width: 400px;
+	height: 25px;
+}
